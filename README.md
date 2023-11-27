@@ -8,5 +8,7 @@ Esse projeto foi criado usando:
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px">
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80px">
 
+  <p>Aprendi com funciona a responsividade dentro de um site tanto para desk quanto indo para mobile!</p>
+
   <img src="https://github.com/Raphael-Angelo/easy-shopping/blob/main/assets/desktop.png?raw=true" widht="200px" height="200px">
   <img src="https://github.com/Raphael-Angelo/easy-shopping/blob/main/assets/mobile.png?raw=true" widht="200px" height="200px">
